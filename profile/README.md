@@ -1,5 +1,5 @@
 # Device Trees Org for riceDroid universal7885
-The Samsung Galaxy A10,A20,A20e,A30,A40,M20 are budget smartphones from Samsung. These are announced and released in the year 2019.
+The Samsung Galaxy A10, A20, A20e ,A30, A40, and M20 are budget smartphones from Samsung. These are announced and released in the year 2019.
 
 # Device List
 - Samsung Galaxy A10 (exynos7884)
